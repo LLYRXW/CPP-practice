@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95c0f54a-c245-4cb4-8332-e2bdaf7eb579": {
+      "ProjectGuid": "95c0f54a-c245-4cb4-8332-e2bdaf7eb579",
+      "DisplayName": "Hello C++",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
